@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 qq
 ww
 ee
+=======
+pp
+ll
+mm
+>>>>>>> movies
 
